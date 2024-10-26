@@ -37,5 +37,3 @@ num = int(input("enter a number:"))
 result = check_even_odd(num)
 print(result)
 
-#Name = ("udit bhandari")
-#print(Name[2:5])
