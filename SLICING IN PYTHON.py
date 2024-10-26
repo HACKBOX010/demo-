@@ -2,7 +2,7 @@
 # Given the string "Hello, World!", extract the substring "World" using slicing.
 #code below :-
 a = "hello,world"
-print(a[9:5])
+print(a[7:12])
 
 #Q2 :- Reversing a String:
 #Write a slice operation to reverse the string "Python".
