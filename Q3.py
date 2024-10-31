@@ -2,7 +2,7 @@
 #Code below :-
 def triangle_area(base, height):
     return(base * height)/2 #formula for area of triangle
-base =int(input("ENTER YOUR CHOICE:"))
-height = int(input("ENTER YOUR CHOICE:"))
+base =int(input("ENTER YOUR CHOICE FOR BASE :"))
+height = int(input("ENTER YOUR CHOICE FOR HEIGHT :"))
 area = triangle_area(base,height) # calling of function.
 print(f"The area of the triangle with base {base} and height {height} is {area}")
