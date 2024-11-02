@@ -8,8 +8,8 @@ print("sum",a+b)
 print("division",a/b)
 
 #WAY 2:- USER INPUT
-a =int(input("ENTER YOUR CHOICE:"))
-b =int(input("ENTER YOUR CHOICE:"))
+a =int(input("ENTER YOUR CHOICE :"))
+b =int(input("ENTER YOUR CHOICE :"))
 print("sum:",a+b)
 print("division:",a/b)
 
