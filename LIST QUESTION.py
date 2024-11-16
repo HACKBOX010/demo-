@@ -26,7 +26,7 @@ def reverse_list(lst):
 numbers = [1, 7, 5, 8, 4]
 print(reverse_list(numbers))
 
-#Q5 -:Check for Duplicates . Write a function that checks if there are any duplicate values in a given list. Count Occurrences of an Element.
+#Q4 -:Check for Duplicates . Write a function that checks if there are any duplicate values in a given list. Count Occurrences of an Element.
 #code :-
 def check_duplicates(lst):
     element_counts = {}
